@@ -23,8 +23,8 @@ export class FeedPage {
   }
 
   ionViewDidLoad() {
-    //console.log('ionViewDidLoad FeedPage');
-    this.somaDoisNumeros(99, 1);
+    console.log('ionViewDidLoad FeedPage');
+    //this.somaDoisNumeros(99, 1);
   }
 
 }
